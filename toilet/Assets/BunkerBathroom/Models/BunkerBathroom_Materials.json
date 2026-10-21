@@ -1,0 +1,202 @@
+{
+  "materials": [
+    {
+      "name": "Dark_Grey_Metal",
+      "color": [
+        0.06,
+        0.065,
+        0.07
+      ],
+      "metallic": 0.35,
+      "smoothness": 0.45,
+      "emission": 0.0
+    },
+    {
+      "name": "Worn_Grey_Metal",
+      "color": [
+        0.17,
+        0.175,
+        0.18
+      ],
+      "metallic": 0.6,
+      "smoothness": 0.5,
+      "emission": 0.0
+    },
+    {
+      "name": "Concrete",
+      "color": [
+        0.2,
+        0.2,
+        0.19
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.08,
+      "emission": 0.0
+    },
+    {
+      "name": "Wall_Panel",
+      "color": [
+        0.23,
+        0.235,
+        0.235
+      ],
+      "metallic": 0.1,
+      "smoothness": 0.35,
+      "emission": 0.0
+    },
+    {
+      "name": "Floor_Tile",
+      "color": [
+        0.12,
+        0.125,
+        0.13
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.6,
+      "emission": 0.0
+    },
+    {
+      "name": "Floor_Tile_Worn",
+      "color": [
+        0.1,
+        0.103,
+        0.105
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.5,
+      "emission": 0.0
+    },
+    {
+      "name": "Grout",
+      "color": [
+        0.05,
+        0.05,
+        0.05
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.05,
+      "emission": 0.0
+    },
+    {
+      "name": "Stainless_Steel",
+      "color": [
+        0.55,
+        0.55,
+        0.55
+      ],
+      "metallic": 1.0,
+      "smoothness": 0.68,
+      "emission": 0.0
+    },
+    {
+      "name": "Industrial_Yellow",
+      "color": [
+        0.45,
+        0.32,
+        0.05
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.3,
+      "emission": 0.0
+    },
+    {
+      "name": "White_Ceramic",
+      "color": [
+        0.72,
+        0.72,
+        0.7
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.78,
+      "emission": 0.0
+    },
+    {
+      "name": "Glass",
+      "color": [
+        0.8,
+        0.82,
+        0.83
+      ],
+      "metallic": 1.0,
+      "smoothness": 0.95,
+      "emission": 0.0
+    },
+    {
+      "name": "Rubber",
+      "color": [
+        0.02,
+        0.02,
+        0.02
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.1,
+      "emission": 0.0
+    },
+    {
+      "name": "Dark_Plastic",
+      "color": [
+        0.025,
+        0.025,
+        0.028
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.5,
+      "emission": 0.0
+    },
+    {
+      "name": "Light_Emissive",
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.5,
+      "emission": 6.0
+    },
+    {
+      "name": "Drain_Void",
+      "color": [
+        0.01,
+        0.01,
+        0.01
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.1,
+      "emission": 0.0
+    },
+    {
+      "name": "Sign_Paper",
+      "color": [
+        0.6,
+        0.58,
+        0.48
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.15,
+      "emission": 0.0
+    },
+    {
+      "name": "Sign_Ink",
+      "color": [
+        0.02,
+        0.02,
+        0.02
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.4,
+      "emission": 0.0
+    },
+    {
+      "name": "Character_Placeholder",
+      "color": [
+        0.6,
+        0.25,
+        0.05
+      ],
+      "metallic": 0.0,
+      "smoothness": 0.4,
+      "emission": 0.0
+    }
+  ]
+}
